@@ -1,2 +1,2 @@
 <?php 
-echo "first line added";
+echo "line added";
