@@ -10,3 +10,4 @@ echo "fourth line";
 echo "fifth line";
 
 echo "sixth line";
+echo "seventh line";
