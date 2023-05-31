@@ -7,4 +7,6 @@ echo "Third line";
 
 echo "fourth line";
 
+echo "fifth line";
+
 echo "sixth line";
